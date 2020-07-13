@@ -1,0 +1,10 @@
+div {
+    margin: 10px;
+    padding: 20px;
+    border: black;
+    background-color: aliceblue;
+}
+
+button {
+    width: 30px;
+}
