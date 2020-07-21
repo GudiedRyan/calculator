@@ -1,10 +1,28 @@
-div {
-    margin: 10px;
-    padding: 20px;
-    border: black;
+.calculatorbody {
+    text-align: center;
+    margin: 25px;
+    padding: 10px;
+    border: solid 5px slateblue;
     background-color: aliceblue;
+    width: 400px;
 }
 
 button {
-    width: 30px;
+    width: 40px;
+    height: 40px;
+    background-color: aqua;
+}
+
+button:hover {
+    background-color: aquamarine;
+  }
+
+button:active {
+    background-color: azure;
+}
+
+.result {
+    text-align: center;
+    padding: 5px;
+    border: solid 2px lightslategray;
 }
